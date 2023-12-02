@@ -122,3 +122,29 @@ li a:hover{
     color: #C2C2C2;
  }
 
+.marketing{
+    background-color: #E4E7E5;
+    display: flex;
+    justify-content: space-around ;
+    flex-wrap: wrap;
+}
+.marketing p{
+    font-family: 'Manrope' , sans-serif;
+    padding: 40px;
+    margin: 10px;
+}
+.icons {
+    padding-top: 2rem;
+    display: flex;
+    gap: 1.6rem;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    padding: 1px 0px;
+    gap: 1.5rem;
+}
+
+.time ul{
+    padding: 2px;
+}
